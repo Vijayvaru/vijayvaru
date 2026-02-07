@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">👨‍💻 vijayvarun chembolu</h1>
-<h3 align="center">Aspiring Full Stack Developer | B.Tech CSE (AI & ML) |</h3>
+<h3 align="center">Aspiring python Developer | B.Tech CSE (AI & ML) |</h3>
 
 ---
 
@@ -15,14 +15,14 @@
 * 🌱 Currently learning *ReactJS*
 * 💻 Passionate about *Web Development, Backend Engineering, and Cloud Technologies*
 * 🧩 Love solving *DSA problems* and building side projects
-* 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sivaramachakradhar-ramisetti) | [Email](mailto:varunharsha808@gmail.com)
+* 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vijayvarun chembolu) | [Email](mailto:varunharsha808@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,python,mysql,spring,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,spring,git,github,vscode" />
 </p>
 
 ---
