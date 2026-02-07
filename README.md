@@ -15,7 +15,7 @@
 * 🌱 Currently learning *ReactJS*
 * 💻 Passionate about *Web Development, Backend Engineering, and Cloud Technologies*
 * 🧩 Love solving *DSA problems* and building side projects
-* 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vijayvarun chembolu) | [Email](mailto:varunharsha808@gmail.com)
+* 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vijayvarunchembolu) | [Email](mailto:varunharsha808@gmail.com)
 
 ---
 
