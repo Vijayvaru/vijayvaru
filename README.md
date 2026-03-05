@@ -51,9 +51,8 @@
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy debugging more than coding — because finding the why behind an error feels like solving a puzzle 🧩.
+## ⚡ Fun Fact: 
+I'm a Python developer who enjoys debugging — uncovering the root cause of an error feels like solving a puzzle 🧩
 
 ---
 
