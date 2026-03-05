@@ -60,9 +60,9 @@ I enjoy debugging more than coding — because finding the why behind an error f
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sivaramachakradhar-ramisetti"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:sivaramisetti700@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/SivaRamaChakradhar"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/vijay varun chembolu "><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:varunharsha808@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/vijayvarur"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
