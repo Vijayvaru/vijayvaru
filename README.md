@@ -30,12 +30,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayvarun chembolu&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayvarun chembolu&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vijayvaru&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayvaru&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayvarun chembolu&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayvaru&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
@@ -66,4 +66,4 @@ I'm a Python developer who enjoys debugging — uncovering the root cause of an 
 
 ---
 
-⭐️ Thanks for stopping by! Let’s build, debug, and grow together 🚀
+⭐️ Thank you so much for taking the time to stop by! Let’s work together to build amazing things, solve problems, improve our skills, and continue learning and growing every single day 🚀
