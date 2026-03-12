@@ -1,20 +1,18 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
- <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 </p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=Aspiring+Python+Developer;AI+%26+ML+Student;Web+Developer;DSA+Enthusiast;Always+Learning+🚀">
-</p>
 
-<h1 align="center">Hi 👋, I'm Vijay Varun Chembolu</h1>
+<p align="center">
+<div align="center" style="border:3px solid white; padding:10px; display:inline-block; border-radius:10px;">
+<h1>Hi 👋, I'm Vijay Varun Chembolu</h1>
+</div>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=Aspiring+Python+Developer;AI+%26+ML+Student;Web+Developer;DSA+Enthusiast;Always+Learning+🚀">
 </p>
----
-
 ## 🚀 About Me
 
 * 🎓 3rd Year Computer Science Engineering (AI & ML) student
