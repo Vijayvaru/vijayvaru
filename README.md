@@ -1,5 +1,3 @@
-<!-- GitHub Profile README -->
-
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 </p>
@@ -13,6 +11,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=Aspiring+Python+Developer;AI+%26+ML+Student;Web+Developer;DSA+Enthusiast;Always+Learning+🚀">
 </p>
+
 ## 🚀 About Me
 
 * 🎓 3rd Year Computer Science Engineering (AI & ML) student
@@ -26,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,spring,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,spring,git,github,vscode,tensorflow,pytorch" />
 </p>
 
 ---
@@ -43,6 +42,9 @@
 </p>
 
 ---
+
+<h2 align="center">🛠️ Current Development Sprint</h2>
+
 <table align="center">
 <tr>
 <th>Category</th>
@@ -52,17 +54,17 @@
 <tr>
 <td><b>Frontend</b></td>
 <td>React.js </td>
-<td><img src="https://geps.dev/progress/85" alt="55%" /></td>
+<td><img src="https://geps.dev/progress/85" alt="85%" /></td>
 </tr>
 <tr>
 <td><b>AI & ML</b></td>
 <td>Deep Learning & Neural Networks</td>
-<td><img src="https://geps.dev/progress/60" alt="70%" /></td>
+<td><img src="https://geps.dev/progress/60" alt="60%" /></td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
 <td>Cloud Deployment (AWS)</td>
-<td><img src="https://geps.dev/progress/45" alt="805%" /></td>
+<td><img src="https://geps.dev/progress/45" alt="45%" /></td>
 </tr>
 <tr>
 <td><b>DSA</b></td>
@@ -70,17 +72,6 @@
 <td><img src="https://geps.dev/progress/75" alt="75%" /></td>
 </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
 
 ## 💻 Problem-Solving Profiles
 
@@ -107,5 +98,18 @@ I'm a Python developer who enjoys debugging — uncovering the root cause of an 
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <b>🕒 My Local Time:</b><br>
+  <img src="https://web-clocks.vercel.app/api?timezone=Asia/Kolkata&color=white&background=black&font=Fira%20Code" alt="Local Time">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vijayvaru&label=Profile%20Views&color=red&style=flat" alt="Profile Views" />
+</p>
 
 ⭐️ Thank you so much for taking the time to stop by! Let’s work together to build amazing things, solve problems, improve our skills, and continue learning and growing every single day 🚀
