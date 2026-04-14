@@ -8,6 +8,18 @@
 </div>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/vijayvaru/vijayvaru/blob/main/Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Resume" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/vijayvaru/vijayvaru/main/Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+  </a>
+</p>
+
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=Aspiring+Python+Developer;AI+%26+ML+Student;Web+Developer;DSA+Enthusiast;Always+Learning+🚀">
 </p>
