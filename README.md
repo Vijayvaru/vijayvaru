@@ -43,6 +43,44 @@
 </p>
 
 ---
+<table align="center">
+<tr>
+<th>Category</th>
+<th>Focus Area</th>
+<th>Progress</th>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>React.js </td>
+<td><img src="https://geps.dev/progress/85" alt="55%" /></td>
+</tr>
+<tr>
+<td><b>AI & ML</b></td>
+<td>Deep Learning & Neural Networks</td>
+<td><img src="https://geps.dev/progress/60" alt="70%" /></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>Cloud Deployment (AWS)</td>
+<td><img src="https://geps.dev/progress/45" alt="805%" /></td>
+</tr>
+<tr>
+<td><b>DSA</b></td>
+<td>Graphs & Dynamic Programming</td>
+<td><img src="https://geps.dev/progress/75" alt="75%" /></td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
 
 ## 💻 Problem-Solving Profiles
 
